@@ -1,4 +1,3 @@
-![](nft2.png)
 
 Validated NTF:
 https://rinkeby-api.opensea.io/asset/0x272A6a426c542D6B0dfa3dc016943F99875E6732/0/validate
