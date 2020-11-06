@@ -14,5 +14,5 @@ https://rinkeby.opensea.io/assets/0x272A6a426c542D6B0dfa3dc016943F99875E6732/0
   "name": "My NFT 0"
 }
 
-![](nft2.jpg)
-![](deployed.jpg)
+![](nft2.png)
+![](deployed.png)
